@@ -1,2 +1,1 @@
 # vanillaJS
-## Project 1
